@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atifumacaxi
 - 👀 I’m interested in new techs, like React and some Quantum computing (Yeah, very distant, so there is the Beauty!)
-- 🌱 I’m currently learning React and AWS (applying to 'Cloud Practitioner')
-- 💞️ I’m looking to collaborate on React, but Im already very good at VBA and Excel itself (almost a specialist)
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on VBA, Excel and DS on mac apple silicons.
 - 📫 How to reach me: atifumacaxi@gmail.com :)
 
 <!---
