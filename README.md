@@ -14,6 +14,7 @@ Main knowledges
 - Facebook Prophet
 - Bloomberg terminal
 - tensorflow
+- SQL
 - packaging (python)
 - Docker
 - ML Ops
