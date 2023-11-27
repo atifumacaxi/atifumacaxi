@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @atifumacaxi
-- 👀 I’m interested in new techs, like React and some Quantum computing (Yes, very distant, so there is the Beauty!)
+- 👋 Hi, I’m Lucas Martinez (@atifumacaxi)
+- 👀 I’m interested in new techs, like React and some Quantum computing. Looking for quantum computional knowledge.
 - 🌱 I’m currently working with IA and creating new solutions for the financial market.
 - 💞️ I’m looking to collaborate on mac apple silicon.
-- 📫 How to reach me: atifumacaxi@gmail.com :)
+- 📫 How to reach me: lucasmsilvestre1@gmail.com
 
   Information Systems bachelor, with 8+ years in financial market and 10+ years developing and solving problems with technology.
 
