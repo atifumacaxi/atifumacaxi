@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas Martinez (@atifumacaxi)
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in new techs, like React and some Quantum computing. Looking for quantum computional knowledge.
 - 🌱 I’m currently working with IA and creating new solutions for the financial market.
 - 💞️ I’m looking to collaborate on mac apple silicon.
